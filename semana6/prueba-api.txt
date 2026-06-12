@@ -1,0 +1,14 @@
+La ruta /registro recibe información enviada en formato JSON mediante una petición POST.
+
+Cuando se envían los datos:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor responde:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
