@@ -1,0 +1,7 @@
+Las dos primeras tareas que realizaría son registrar una incidencia y enviar una alerta a Telegram, porque permiten informar rápidamente sobre un problema y dar inicio al seguimiento.
+
+Una tarea se considera terminada cuando:
+
+- Funciona correctamente.
+- Fue probada sin errores.
+- Quedó registrada y documentada.
